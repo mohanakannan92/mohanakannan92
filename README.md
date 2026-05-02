@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1600&auto=format&fit=crop" width="100%" />
+  <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1600&auto=format&fit=crop" width="100%" />
 </p>
 
-<h1 align="center">🌲 Mohanakannan M</h1>
-<h3 align="center">🛡️ Securing AI Systems • Defending LLMs</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=D8F3DC&center=true&vCenter=true&width=800&lines=Mohanakannan+M;🛡️+Securing+AI+Systems;Defending+LLMs;Cloud+%26+AI+Security+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081c15,100:2d6a4f&height=2&section=header"/>
+</p>
 
 ---
 
