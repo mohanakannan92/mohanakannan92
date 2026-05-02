@@ -78,6 +78,7 @@ https://github.com/mohanakannan92/ai-security-lab
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/AI-Security-344e41?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AWS-Cloud-1b4332?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Security-Defense-2d6a4f?style=for-the-badge"/>
 
@@ -90,7 +91,6 @@ https://github.com/mohanakannan92/ai-security-lab
 <img src="https://img.shields.io/badge/GCP-Infra-6a994e?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Security-Control-386641?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI-Security-344e41?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SIEM-Monitoring-588157?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firewall-Network-b7e4c7?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/Linux-Hardening-081c15?style=for-the-badge&logo=linux&logoColor=white"/>
