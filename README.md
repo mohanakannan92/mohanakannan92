@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,50:1b4332,100:2d6a4f&height=200&section=header&text=Mohanakannan Information Security Professional%20M&fontSize=34&fontColor=d8f3dc&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,50:1b4332,100:2d6a4f&height=200&section=header&text=Mohanakannan%20M&fontSize=34&fontColor=d8f3dc&animation=fadeIn" />
 </p>
 
 <h2 align="center">🛡️ Cloud & AI Security Engineer</h2>
