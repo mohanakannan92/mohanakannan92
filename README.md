@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,50:1b4332,100:2d6a4f&height=200&section=header&text=Mohanakannan%20M&fontSize=34&fontColor=d8f3dc&animation=fadeIn" />
+  <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1600&auto=format&fit=crop" width="100%" />
 </p>
+
+---
+
+<h2 align="center">🛡️ Cloud & AI Security Engineer</h2>
+<p align="center">Securing AI Systems • Defending LLMs • Building Cloud Security</p>
+
+---
 
 <h2 align="center">🛡️ Cloud & AI Security Engineer</h2>
 
@@ -61,8 +68,10 @@ User Input
 ### 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohanakannan92/ai-security-lab/notes/04-fixes/06-red-team/05-dashboard/dashboard.png" width="520"/>
+  <img src="https://github.com/mohanakannan92/ai-security-lab/blob/3af9ad46563767ad4d7af8ce52458550c75df23f/notes/04-fixes/06-red-team/05-dashboard/dashboard.png" width="520"/>
 </p>
+
+
 
 ---
 
