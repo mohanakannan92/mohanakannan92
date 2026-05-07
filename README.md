@@ -1,17 +1,12 @@
 <p align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=52B788&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%F0%9F%91%8B+Welcome+to+my+forest...;%F0%9F%8C%B2+I%E2%80%99m+Mohanakannan;%F0%9F%9B%A1%EF%B8%8F+Building+Secure+AI+and+Cloud+Defense+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=52B788&center=true&vCenter=true&width=700&lines=Welcome+to+my+forest;I+am+Mohanakannan;Building+Secure+AI+and+Cloud+Defense+Systems"
   />
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:081c15,30:1b4332,60:2d6a4f,100:52b788&amp;height=240&amp;section=header&amp;text=%F0%9F%8C%B2%20Mohanakannan&amp;fontSize=36&amp;fontColor=d8f3dc&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=%F0%9F%9B%A1%EF%B8%8F%20InfoSec%20Professional%20%7C%20Cloud%20%26%20AI%20Security&amp;descAlignY=58&amp;descSize=16"
-  />
-
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:081c15,100:1b4332&amp;height=2&amp;section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,30:1b4332,60:2d6a4f,100:52b788&height=240&section=header&text=Mohanakannan&fontSize=36&fontColor=d8f3dc&animation=fadeIn&fontAlignY=35&desc=InfoSec%20Professional%20%7C%20Cloud%20and%20AI%20Security&descAlignY=58&descSize=16"
   />
 
 </p>
